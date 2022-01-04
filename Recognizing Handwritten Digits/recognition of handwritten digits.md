@@ -6,3 +6,4 @@ Here is a small preview of how our data-set looks:
 
 Here is how the data looks after resampling:
 
+![image](https://user-images.githubusercontent.com/97105023/148085516-3a589dc6-43e1-4510-9322-859920721fd6.png)
